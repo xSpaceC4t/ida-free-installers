@@ -1,0 +1,4 @@
+idafree84_windows.exe filter=lfs diff=lfs merge=lfs -text
+idafree84_linux.run filter=lfs diff=lfs merge=lfs -text
+idafree84_mac.app.zip filter=lfs diff=lfs merge=lfs -text
+arm_idafree84_mac.app.zip filter=lfs diff=lfs merge=lfs -text
